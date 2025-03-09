@@ -1,0 +1,9 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-03-09T08:59:28.994Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-03-09T08:59:28.996Z"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","timestamp":"2025-03-09T08:59:31.915Z"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","timestamp":"2025-03-09T08:59:43.375Z"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","timestamp":"2025-03-09T09:03:20.875Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-03-09T09:11:37.184Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-03-09T09:11:37.185Z"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","timestamp":"2025-03-09T09:11:39.891Z"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","timestamp":"2025-03-09T09:11:44.494Z"}
